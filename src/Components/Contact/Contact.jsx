@@ -6,6 +6,7 @@ import linkedin_icon from '../../assets/linkedin-icon.png'
 import github_icon from '../../assets/github-icon.png'
 import twitter_icon from '../../assets/twitter-icon.png'
 import white_arrow from '../../assets/white_arrow.png'
+import dark_arrow from '../../assets/dark_arrow.png'
 import outlook_icon from '../../assets/outlook-icon.png'
 
 const Contact = () => {

@@ -2,7 +2,6 @@
 /* To do
  1. Change all the arrows to better png pics
  2. Fix up projects
- 3. Fix up Favourites to include my favourite travels, pictures, and memories
- 4. Fix where the farmer logo is
- 5. Deal with git
+ 3. Fix where the farmer logo is
+ 4. Deal with git
 */
