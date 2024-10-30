@@ -51,7 +51,13 @@
 @media (max-width: 650px){
     .projects{
         flex-direction: column;
+        margin-top: 20px;
     }
+
+    .project{
+        margin: 10px;
+    }
+
     .program{
         flex-basis: 100%;
         margin: 20px;
