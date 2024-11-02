@@ -23,7 +23,7 @@
 }
 
 .hero-text p{
-    max-width:  10000px;
+    max-width:  1000px;
     margin: 10px auto 20px;
     line-height: 0.5;
 }
@@ -47,5 +47,14 @@
         font-size: 14px;
         margin: 15px auto 30px;
 
+    }
+}
+
+@media (max-width: 500px){
+    .hero-text p{
+        display: block;
+        font-size: 12px;
+        line-height: 1;
+        margin: 15px auto 20px;
     }
 }

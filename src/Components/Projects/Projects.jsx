@@ -15,21 +15,22 @@ const Projects = () => {
             <img src={project_1} alt=""/>
             <div className="caption">
                 <img src={project_icon_1} alt="" />
-                <p>First Project</p>
+                <h3>Webscraper</h3>
+                <p>Developed a WebScraper tool to automate data extraction from Yahoo! Finance, streamlining market research with organized CSV exports and a user-friendly web interface.</p>
             </div>
         </div>
         <div className="project"> 
             <img src={project_2} alt=""/>
             <div className="caption">
                 <img src={project_icon_2} alt="" />
-                <p>Second Project</p>
+                <h3>Second Project</h3>
             </div>
         </div>
         <div className="project"> 
             <img src={project_3} alt=""/>
             <div className="caption">
                 <img src={project_icon_3} alt="" />
-                <p>Third Project</p>
+                <h3>Third Project</h3>
             </div>
         </div>
       
