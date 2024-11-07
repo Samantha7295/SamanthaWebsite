@@ -61,10 +61,6 @@
 
 /* media query */
 @media (max-width: 1000px){
-    .projects{
-        /* width: 90%; */
-    }
-
     .caption h3{
         font-size: 15px;
     }

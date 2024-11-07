@@ -15,23 +15,7 @@ import van_4 from '../../assets/van gogh.png'
 
 const Testimonials = () => {
 
-  //   const slider = useRef();
-  //   let tx = 0; /*translate X*/
 
-  // const slideForward = () => {
-  //   if(tx > -50){
-  //     tx -= 25;
-  //   }
-
-  //   slider.current.style.transform = `translateX(${tx}%)`
-  // }
-  // const slideBackward = () => {
-  //   if(tx < 0){
-  //     tx += 25;
-  //   }
-
-  //   slider.current.style.transform = `translateX(${tx}%)`
-  // }
   const slider = useRef();
   let tx = 0;
 

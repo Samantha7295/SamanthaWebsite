@@ -11,7 +11,7 @@ import project_icon_3 from '../../assets/project-icon-3.png'
 const Projects = () => {
   return (
     <div className='projects'> 
-        <div className="project" id="project"> 
+        <div className="project" id="project" onClick={(event) => window.open("https://github.com/Samantha7295/Webscraper", "_blank")}> 
             <img src={project_1} alt=""/>
             <div className="caption">
                 <img src={project_icon_1} alt="" />
