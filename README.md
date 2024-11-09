@@ -1,20 +1,12 @@
 # My Portfolio Website
-A modern React and CSS portfolio website showcasing my projects, interests, and ways to connect. This site features a clean layout with components for navigation, a home section, project highlights, personal interests, and a contact form.
+🌟 Welcome to My Creative Space! 🌟
 
-Features
-Responsive Navbar: Easy navigation throughout the site.
-Home Section: Engaging introduction to myself to new users.
-Projects Showcase: Displays my creations and ongoing projects.
-Favourites: Sharing my favourite interests, pictures, and memories.
-Contact Form: Simple way for users to reach out.
+This is the source code for my personal website, where you can get to know me, Samantha La, a Systems Design Engineering student at the University of Waterloo. Here, I share my journey of blending creativity 🎨 and technology 🤖 through projects, experiences, and some of my favorite things!
 
-Technologies Used
-React
-CSS
-Feel free to explore and connect!
+Explore My Website:
+About Me: Learn more about my academic and professional background, including my internships at Scotiabank and UPS where I applied my skills in Python and VBA for automation and data optimization.
+Projects: Dive into my technical projects📊.
+My Favorites: Discover some of my favorite experiences, like exploring new foods 🍰, hiking 🌱, traveling ✈️, and appreciating art galleries.
+Contact: Feel free to reach out to connect or share any creative ideas!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project is built with React and JavaScript, enabling a responsive, interactive user interface that delivers smooth navigation and dynamic content updates.
