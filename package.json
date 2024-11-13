@@ -1,13 +1,17 @@
 {
   "name": "samantha7295.github.io",
-  "homepage": "https://Samantha7295.github.io/",
+  "homepage": "https://samantha7295.github.io/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "build": "vite build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build" : "react-scripts build",
+    "test" : "react-scripts test",
+    "eject" : "react-scripts eject"
+    
   },
   "dependencies": {
     "react": "^18.3.1",
