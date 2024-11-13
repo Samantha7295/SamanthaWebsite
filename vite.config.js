@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   // base: "./",
   plugins: [react()], // Optional, as this is the default value
-  base: "/Samantha7295/"
+  base: "/SamanthaWebsite"
 })
