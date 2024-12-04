@@ -18,7 +18,7 @@ const Projects = () => {
                 <p>Developed a WebScraper tool to automate data extraction from Yahoo! Finance, streamlining market research with organized CSV exports and a user-friendly web interface.</p>
             </div>
         </div>
-        <div className="project"> 
+        <div className="project" id="project" onClick={(event) => window.open("https://github.com/Samantha7295/Freakmometer", "_blank")}> 
             <img src={project_2} alt=""/>
             <div className="caption">
                 <img src={project_icon_2} alt="" />
