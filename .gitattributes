@@ -1,0 +1,8 @@
+# Set line endings to LF for text files
+* text=auto
+
+# Explicitly set binary files to be ignored by line-ending conversions
+*.png binary
+*.jpg binary
+*.gif binary
+*.ico binary
