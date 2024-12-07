@@ -28,7 +28,7 @@ const Contact = () => {
     const data = await response.json();
 
     if (data.success) {
-      setResult("Form Submitted Successfully. Thank you for contacting me!");
+      setResult("Form submitted successfully. Thank you for contacting me!");
       event.target.reset();
     } else {
       console.log("Error", data);
@@ -44,8 +44,16 @@ const Contact = () => {
             <ul>
                 <li><img src={mail_icon} alt=""/>samantha.la7295@gmail.com</li>
                 <li><img src={outlook_icon} alt=""/>sla@uwaterloo.ca</li>
-                <li><img src={linkedin_icon} alt=""/>linkedin.com/in/samanthala</li>
-                <li><img src={github_icon} alt=""/>github.com/Samantha7295</li>
+                <li> 
+                    <img src={linkedin_icon} alt=""/>
+                    linkedin.com/in/samanthala
+                </li>
+                <li>
+                  <a href="https://github.com/Samantha7295" target="_blank" rel="noopener noreferrer">
+                    <img src={github_icon} alt=""/>
+                    github.com/Samantha7295
+                  </a>
+                </li>
             </ul>
         </div>
         <div className="contact-col">

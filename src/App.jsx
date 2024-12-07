@@ -24,7 +24,7 @@ const App = () => {
         <Socials/> */}
         <Title subtTitle='My Favourites' title='Fun Picks from My Life'/>
         <Testimonials/>
-        <Title subtTitle='Contact Us' title='I’d Love to Hear from You!'/>
+        <Title subtTitle='Contact Me' title='I’d Love to Hear from You!'/>
         <Contact/>
         <Footer/>
       </div>
