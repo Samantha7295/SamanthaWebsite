@@ -45,8 +45,10 @@ const Contact = () => {
                 <li><img src={mail_icon} alt=""/>samantha.la7295@gmail.com</li>
                 <li><img src={outlook_icon} alt=""/>sla@uwaterloo.ca</li>
                 <li> 
-                    <img src={linkedin_icon} alt=""/>
-                    linkedin.com/in/samanthala
+                  <a href="https://www.linkedin.com/in/samanthala/" target="_blank" rel="noopener noreferrer">
+                      <img src={linkedin_icon} alt=""/>
+                      linkedin.com/in/samanthala
+                  </a>
                 </li>
                 <li>
                   <a href="https://github.com/Samantha7295" target="_blank" rel="noopener noreferrer">
