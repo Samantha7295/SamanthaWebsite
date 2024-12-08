@@ -34,6 +34,15 @@ nav ul li{ /*aligning the different website bars horizontally and spaced out*/
     display: none;
 }
 
+.hide-mobile-menu {
+    right: -210px; 
+    transition: right 0.3s ease;
+}
+
+nav ul:not(.hide-mobile-menu){
+    right: 0;
+}
+
 
 /* media query */
 @media (max-width: 1000px) {
